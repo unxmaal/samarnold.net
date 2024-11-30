@@ -1,4 +1,5 @@
 name: Deploy Hugo site to GitHub Pages
+# no really, stop using jekyll
 
 on:
   push:
